@@ -6,4 +6,4 @@ Usage
 
 In Browser
 ----------------------------
-    <script src="base64.js"></script>
+    \<script src="base64.js">\</script>
